@@ -1,8 +1,8 @@
-organization := "$organization$"
+organization := "com.example"
 
 name := "$name$"
 
-version := "$version$"
+version := "0.1"
 
 scalaVersion := "$scala_version$"
 
